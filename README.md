@@ -17,11 +17,6 @@
 - **Backend Development Projects**  
   Designed APIs with Flask, FastAPI, Java, and Springboot, integrating them into production. Handled deployment, unit testing, and performance monitoring for multiple backend services.
 
-📌 Few of the personal projects I've worked on:
-- 🔍 [`efficientnet-classifier`](https://github.com/nj-16/efficientnet-classifier) - Image classification using EfficientNet on CIFAR-10, an optimized version based on a research paper.
-- 🤖 [`fulfillment`](https://github.com/nj-16/fulfillment) - Custom Dialogflow fulfillment for conversational agents.
-- I also have a few private projects I'm currently working on that feature AI driven content generation
-
 🎓 Currently learning:
 - Reinforcement Learning, Machine Learning, AI algorithms and how they work
 - AI-generated media tools
